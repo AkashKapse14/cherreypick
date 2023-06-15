@@ -1,1 +1,2 @@
 update student set id=10 where name="akash';
+update student set id=20 where name="akash';
