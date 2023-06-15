@@ -1,0 +1,1 @@
+update student set id=10 where name="akash';
